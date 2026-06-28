@@ -35,25 +35,25 @@ Oracle • PostgreSQL
 
 ## 📊 Languages I Use
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgsyg&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgsyg&layout=compact&theme=vision-friendly-dark&hide_border=true)
 
 ---
 
 ## ⭐ Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgsyg&repo=listo&theme=tokyonight&hide_border=true)](https://github.com/rgsyg/listo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgsyg&repo=listo&theme=vision-friendly-dark&hide_border=true)](https://github.com/rgsyg/listo)
 
-> AI-powered productivity application.
+> To-do list productivity application.
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgsyg&repo=ai-resume-reviewer&theme=tokyonight&hide_border=true)](https://github.com/rgsyg/ai-resume-reviewer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgsyg&repo=ai-resume-reviewer&theme=vision-friendly-dark&hide_border=true)](https://github.com/rgsyg/ai-resume-reviewer)
 
 > Resume analysis tool powered by AI.
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trickrenzgarcia&repo=jarsnft&theme=tokyonight&hide_border=true)](https://github.com/trickrenzgarcia/jarsnft)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trickrenzgarcia&repo=jarsnft&theme=vision-friendly-dark&hide_border=true)](https://github.com/trickrenzgarcia/jarsnft)
 
 > NFT marketplace built with modern web technologies.
 
